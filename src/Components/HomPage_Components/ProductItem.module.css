@@ -1,0 +1,29 @@
+.container {
+  max-width: 23%;
+  text-align: center;
+  animation: zoom-out 2s;
+}
+.container img {
+  width: 100%;
+}
+.container img:hover {
+  opacity: 0.8;
+  cursor: pointer;
+}
+.title {
+  font-weight: bold;
+}
+.price {
+  color: #5e5d5d;
+  opacity: 0.8;
+  margin-top: 10px;
+}
+@keyframes zoom-out {
+  0% {
+    transform: scale(0.8, 0.8);
+    opacity: 0.1;
+  }
+  100% {
+    transform: scale(1, 1);
+  }
+}

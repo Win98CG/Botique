@@ -1,0 +1,22 @@
+.footer {
+  background-color: black;
+  width: 100%;
+}
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+.content {
+  margin: 70px 0px;
+}
+.footer p {
+  margin-bottom: 10px;
+}
+.footer a {
+  color: #5e5d5d;
+  text-decoration: none;
+}
+.title {
+  color: white;
+  margin-bottom: 15px;
+}

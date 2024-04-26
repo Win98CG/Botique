@@ -1,0 +1,29 @@
+.title {
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+.flex {
+  display: flex;
+  gap: 20px;
+  margin-bottom: 50px;
+}
+.container {
+  max-width: 23%;
+  text-align: center;
+  animation: zoom-out 2s;
+}
+.container img {
+  width: 100%;
+}
+.container img:hover {
+  opacity: 0.8;
+  cursor: pointer;
+}
+.title_product {
+  font-weight: bold;
+}
+.price {
+  color: #5e5d5d;
+  opacity: 0.8;
+  margin-top: 10px;
+}

@@ -1,0 +1,29 @@
+.nav {
+  width: 20%;
+}
+.nav h3 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+.navigation {
+  list-style: none;
+}
+.navigation li {
+  padding: 10px 15px;
+}
+.navigation a {
+  text-decoration: none;
+  color: black;
+}
+.navigation a:hover {
+  color: orange;
+  opacity: 0.8;
+}
+.navigation .title {
+  background-color: black;
+  color: white;
+}
+.navigation .titlebg {
+  background-color: #e1e7e1;
+}

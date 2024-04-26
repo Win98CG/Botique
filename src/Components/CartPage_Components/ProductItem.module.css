@@ -1,0 +1,25 @@
+.banner {
+  width: 100px;
+}
+td {
+  text-align: center;
+  width: 120px;
+}
+.name {
+  font-weight: bold;
+}
+.price {
+  color: #5e5d5d;
+  opacity: 0.8;
+}
+.quantity {
+  font-size: 1.3rem;
+}
+.icon {
+  cursor: pointer;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+.icon:hover {
+  opacity: 0.6;
+}

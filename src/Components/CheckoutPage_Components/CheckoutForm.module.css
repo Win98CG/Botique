@@ -1,0 +1,12 @@
+.form {
+  width: 55%;
+}
+.from_control label,
+.from_control input {
+  display: block;
+}
+.from_control input {
+  width: 100%;
+  padding: 10px;
+  margin: 5px auto 15px;
+}
